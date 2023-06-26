@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adolfo Aguirren Montes</h1>
-<h3 align="center">Back-end Developer focused on growth and improvement.</h3>
+<h3 align="center">Backend Developer</h3>
+
+<p align="justify">Over the years I have continually honed my expertise in PHP, Laravel, and APIs. As a result, teams have come to appreciate my problem-solving and application-scaling skills, as well as my talent for teaching and coaching others.</p>
 
 - 🔭 I’m currently working on [Wifi.PRO](https://panel.wifi.pro/)
 
-- 🌱 I’m currently learning **Clean Code, DDD, React**
+- 🌱 I’m currently learning **Clean Code, Clean Arquitectures, DDD**
 
-- 💬 Ask me about **php, javascript, html, sql**
+- 💬 Ask me about **PHP, Laravel, Javascript, HTML, SQL**
 
 - 📫 How to reach me **adolfo.aguim@gmail.com**
 
